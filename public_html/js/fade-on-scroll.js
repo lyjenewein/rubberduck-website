@@ -18,7 +18,7 @@ function calcAlpha() {
     const fadeStart = 100;
 
     //Vid vilken pixel ska faden sluta
-    const fadeStop = 200;
+    const fadeStop = 300;
 
     //hur långt är det mellan start och stop
     const fadeLength = fadeStop - fadeStart;
